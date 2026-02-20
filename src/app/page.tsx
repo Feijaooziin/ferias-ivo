@@ -67,9 +67,9 @@ export default function Home() {
           variants={footerItem}
           className="text-3xl font-bold text-zinc-200"
         >
-          Calma meu Cupinxa,
+          Calma lá meu Cupinxa,
           <br />
-          Tá quase lá!
+          Tá chegando!
         </motion.h1>
 
         <motion.p variants={footerItem}>

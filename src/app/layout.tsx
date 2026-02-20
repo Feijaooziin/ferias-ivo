@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Férias do Ivo",
-  description: "Contagem regressiva das férias.",
+  description: "Contagem regressiva para as férias.",
 };
 
 export default function RootLayout({
