@@ -77,6 +77,15 @@ export default function Home() {
         </motion.p>
 
         <motion.p variants={footerItem}>
+          Azar do Beira e do Chiquinho que vão ficar sozinhos.
+        </motion.p>
+
+        <motion.p variants={footerItem}>
+          Vai voltar com as fórmulas todas mortas que o Léo vai ferrar as
+          planilhas.
+        </motion.p>
+
+        <motion.p variants={footerItem}>
           Patrocínio "EMERGENT COLD LATAM".
         </motion.p>
 

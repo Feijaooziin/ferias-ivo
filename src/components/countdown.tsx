@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 function getTimeLeft() {
   const now = new Date();
-  const nextYear = new Date(now.getFullYear(), 1, 27);
+  const nextYear = new Date(now.getFullYear(), 1, 27, 7, 0, 0);
   const diff = nextYear.getTime() - now.getTime();
 
   return {
